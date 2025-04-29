@@ -1,11 +1,6 @@
 # Hilay-TV-M3U
 Hilay TV M3U Playlist Generator
 
-
-
-
-
-
 <h1 align="center">
   <br>
   <a href="https://t.me/freetvmv"><img src="https://i.postimg.cc/JnygVFyn/image.jpg" alt="🔥 Hilay TV 🔥" width="200"></a>
@@ -58,18 +53,6 @@ Hilay TV M3U Playlist Generator
 
 
 
-# 🎬How To Play
-**📱Android**
-* Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Jeshan-akand/Hilay TV-Channels-Link-Headers/main/Hilay TV_NS_Player.m3u)
-* 👆 Short Link : https://s.id/21HEP
-*  Enjoy 😊
-
-**🖥️ Android TV**
-* Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Jeshan-akand/Hilay TV-Channels-Link-Headers/main/Hilay TV_OTT_Navigator.m3u)
-*  👆 Short Link : https://s.id/21HEV
-*  Enjoy 😊
 
 
 
