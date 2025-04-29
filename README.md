@@ -1,4 +1,4 @@
-# Hilay-TV-M3U
+# Hilay TV M3U
 Hilay TV M3U Playlist Generator
 
 <h1 align="center">
