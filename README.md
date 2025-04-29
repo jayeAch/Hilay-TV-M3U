@@ -37,10 +37,9 @@ Hilay TV M3U Playlist Generator
 
 # 💥Key Features
 
-* All The Channel Links and Cookies Are Updated Every 30 Minutes
+* All The Channel Links and Cookies Are Updated Every 24hr
 * Premium Channels Are Also Working
-* Contains Link With Headers (Host, Cookie)
-* In JSON Format
+* In M3U Format
 * You Can Easily Use This on a Website or in an App for Restreaming TV Channels 
 
 
