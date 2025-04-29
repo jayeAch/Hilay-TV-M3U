@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'  # Runs every day at 00:00 UTC
   workflow_dispatch:      # Allows manual trigger from GitHub UI
 
+permissions:
+  contents: write  # Allow pushing changes to the repo
+
 jobs:
   run-hilay:
     runs-on: ubuntu-latest
@@ -25,3 +28,11 @@ jobs:
 
       - name: Run hilay.py
         run: python hilay.py
+
+      - name: Commit and push hilaytv.m3u
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add hilaytv.m3u
+          git commit -m "Auto-update M3U playlist" || echo "No changes to commit"
+          git push
