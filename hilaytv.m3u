@@ -60,7 +60,7 @@ https://yes.ishaukath.workers.dev/bc11f97b8732eccde8c8a8aef3207ca2/manifest/vide
 https://embed-cloudfront.wistia.com/deliveries/04945364e6df1cb0b81d74b1de1a2fd0693b0515.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=y9Io1uy04kSyN7EgZ726hQ
+/PeaceTvEnglish/index.m3u8?sid=P7rxhyy_J0mGGCCB6n2OdA
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -216,7 +216,7 @@ http://fl2.moveonjoy.com/VH1/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/1ba849db-eae3-4a74-a32b-cdb933608e72/0.m3u8
 
 #EXTINF:-1 tvg-id="AstroSports" tvg-name="Astro Football" group-title="Hilay TV",Astro Football
-/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjQvbW9uby5tM3U4fGh0dHBzOi8vcGtwYWtpcGxheS54eXovfGh0dHBzOi8vcGtwYWtpcGxheS54eXp8TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2.m3u8
+http://103.140.3.18:7860/ddy/124
 
 #EXTINF:-1 tvg-id="astropl2" tvg-name="Astro Premier League 2" group-title="Hilay TV",Astro Premier League 2
 http://103.140.3.18:7860/ddy/126
@@ -291,7 +291,7 @@ https://a1xs.vip/700037
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/118592.ts
 
 #EXTINF:-1 tvg-id="SkySports9" tvg-name="Sky Sports 9 FHD" group-title="Hilay TV",Sky Sports 9 FHD
-/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTk2L21vbm8ubTN1OHxodHRwczovL3BrcGFraXBsYXkueHl6L3xodHRwczovL3BrcGFraXBsYXkueHl6fE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjYuMC4wLjAgU2FmYXJpLzUzNy4zNg==.m3u8
+http://103.140.3.18:7860/ddy/596
 
 #EXTINF:-1 tvg-id="starspselect1" tvg-name="Star Sports Select 1 HD" group-title="Hilay TV",Star Sports Select 1 HD
 https://opplex-m3u-by07.vercel.app/api/stream?channel=145
@@ -315,7 +315,7 @@ https://a1xs.vip/8000022
 https://a1xs.vip/4000009
 
 #EXTINF:-1 tvg-id="laliga" tvg-name="LaLiga TV" group-title="Hilay TV",LaLiga TV
-/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzYvbW9uby5tM3U4fGh0dHBzOi8vcGtwYWtpcGxheS54eXovfGh0dHBzOi8vcGtwYWtpcGxheS54eXp8TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2.m3u8
+http://103.140.3.18:7860/ddy/276
 
 #EXTINF:-1 tvg-id="SuperLaliga" tvg-name="Super Sports LaLiga" group-title="Hilay TV",Super Sports LaLiga
 http://45.148.145.57/AF_S_FOOTIMER/index.m3u8
@@ -330,13 +330,13 @@ https://ott-sg.djdoolky76.net/stream/udptv/dazn1/master.m3u8?u=udpteam@djdoolky7
 https://ott-sg.djdoolky76.net/stream/udptv/dazn2/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
 
 #EXTINF:-1 tvg-id="dazn2sp" tvg-name="DAZN 2 Germany" group-title="Hilay TV",DAZN 2 Germany
-/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4fGh0dHBzOi8vcGtwYWtpcGxheS54eXovfGh0dHBzOi8vcGtwYWtpcGxheS54eXp8TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2.m3u8
+http://103.140.3.18:7860/ddy/427
 
 #EXTINF:-1 tvg-id="dazn3" tvg-name="DAZN 3 PT" group-title="Hilay TV",DAZN 3 PT
 http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 
 #EXTINF:-1 tvg-id="dazn4" tvg-name="DAZN 4 Spain" group-title="Hilay TV",DAZN 4 Spain
-/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDgvbW9uby5tM3U4fGh0dHBzOi8vcGtwYWtpcGxheS54eXovfGh0dHBzOi8vcGtwYWtpcGxheS54eXp8TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2.m3u8
+http://103.140.3.18:7860/ddy/448
 
 #EXTINF:-1 tvg-id="daznlaliga" tvg-name="DAZN Laliga" group-title="Hilay TV",DAZN Laliga
 https://ott-sg.djdoolky76.net/stream/udptv/daznlaliga/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
@@ -366,10 +366,10 @@ https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports1" tvg-name="Bein Sports One" group-title="Hilay TV",Bein Sports One
-https://ott.udptv.net/stream/iptv/beinsports1/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://stream.sainaertebat.com/hls2/bein1.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="Bein Sports Two" group-title="Hilay TV",Bein Sports Two
-https://ott.udptv.net/stream/iptv/beinsports2/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://stream.sainaertebat.com/hls2/bein2.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports3" tvg-name="Bein Sports Three" group-title="Hilay TV",Bein Sports Three
 https://ott.udptv.net/stream/iptv/beinsports3/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
@@ -408,13 +408,13 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1" tvg-name="Fox Sports One" group-title="Hilay TV",Fox Sports One
-http://103.140.3.18:7860/ddy/39
+http://212.102.60.10/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisCh" tvg-name="Tennis Channel" group-title="Hilay TV",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSN" tvg-name="CBS Sports Network" group-title="Hilay TV",CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://primestreams.tv:826/live/Ncamp007824/Nick007/99599.ts
 
 #EXTINF:-1 tvg-id="realmadrid" tvg-name="Real Madrid TV" group-title="Hilay TV",Real Madrid TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ac6366c8-78e1-4c09-bb3f-e27c4a2a51cc/5.m3u8
@@ -495,7 +495,7 @@ https://imnoob.site/TATACC/play.php?id=11110
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=2060
 
 #EXTINF:-1 tvg-id="astrogrand" tvg-name="Astro Grandstand" group-title="Hilay TV",Astro Grandstand
-/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjMvbW9uby5tM3U4fGh0dHBzOi8vcGtwYWtpcGxheS54eXovfGh0dHBzOi8vcGtwYWtpcGxheS54eXp8TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2.m3u8
+http://103.140.3.18:7860/ddy/123
 
 #EXTINF:-1 tvg-id="kloopy" tvg-name="Kaloopy TV" group-title="Hilay TV",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
@@ -525,10 +525,10 @@ http://103.140.3.18:7860/ddy/125
 https://ott.udptv.net/stream/iptv/premierleague/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
 
 #EXTINF:-1 tvg-id="setanta1" tvg-name="Setanta Sports HD" group-title="Hilay TV",Setanta Sports HD
-https://ott.udptv.net/stream/iptv/setantasport1/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="setanta2" tvg-name="Setanta Sports HD" group-title="Hilay TV",Setanta Sports HD
-https://ott.udptv.net/stream/iptv/setantasports/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="wb" tvg-name="Warner Bros" group-title="Hilay TV",Warner Bros
 https://ott.djdoolky76.net/stream/astro/astrowarnertv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
@@ -714,7 +714,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/84f6888c-fa4b-4f56-a036-7713c40fe3f8/4.m3u8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
-http://103.140.3.18:7860/ddy/400
+https://maldivesn.net/hilaytv/foxsports1
 
 #EXTINF:-1 tvg-id="cookingch" tvg-name="Cooking Channel" group-title="Hilay TV",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -723,10 +723,10 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="abudhabisp1" tvg-name="Abu Dhabi Sports 1" group-title="Hilay TV",Abu Dhabi Sports 1
-/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MDAvbW9uby5tM3U4fGh0dHBzOi8vcGtwYWtpcGxheS54eXovfGh0dHBzOi8vcGtwYWtpcGxheS54eXp8TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNi4wLjAuMCBTYWZhcmkvNTM3LjM2.m3u8
+http://103.140.3.18:7860/ddy/600
 
 #EXTINF:-1 tvg-id="abudhabisp2" tvg-name="Abu Dhabi Sports 2" group-title="Hilay TV",Abu Dhabi Sports 2
-/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjAxL21vbm8ubTN1OHxodHRwczovL3BrcGFraXBsYXkueHl6L3xodHRwczovL3BrcGFraXBsYXkueHl6fE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjYuMC4wLjAgU2FmYXJpLzUzNy4zNg==.m3u8
+http://103.140.3.18:7860/ddy/601
 
 #EXTINF:-1 tvg-id="laamtv" tvg-name="Laamu TV" group-title="Hilay TV",Laamu TV
 https://laamutv.ishaukath.workers.dev/a0561c4fee5bfda5eef35b1f80039dae/manifest/video.m3u8
