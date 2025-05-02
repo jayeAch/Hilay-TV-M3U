@@ -60,7 +60,7 @@ https://yes.ishaukath.workers.dev/bc11f97b8732eccde8c8a8aef3207ca2/manifest/vide
 https://embed-cloudfront.wistia.com/deliveries/04945364e6df1cb0b81d74b1de1a2fd0693b0515.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=P7rxhyy_J0mGGCCB6n2OdA
+/PeaceTvEnglish/index.m3u8?sid=6-hNKShRpEKdEDuoc82iZQ
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -222,7 +222,7 @@ http://103.140.3.18:7860/ddy/124
 http://103.140.3.18:7860/ddy/126
 
 #EXTINF:-1 tvg-id="Sonyten1" tvg-name="SONY SPORTS TEN 1 HD" group-title="Hilay TV",SONY SPORTS TEN 1 HD
-https://star-restream-by07.vercel.app/api/stream?channel=cri:-sony-ten-1-hd-by07-361
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-id="Sonyten2" tvg-name="SONY SPORTS TEN 2 HD" group-title="Hilay TV",SONY SPORTS TEN 2 HD
 https://star-restream-by07.vercel.app/api/stream?channel=sony-ten-2-(4k)-by07-326
@@ -369,7 +369,7 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 https://stream.sainaertebat.com/hls2/bein1.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="Bein Sports Two" group-title="Hilay TV",Bein Sports Two
-https://stream.sainaertebat.com/hls2/bein2.m3u8
+https://wo.cma.footballii.ir/hls2/b2_src.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports3" tvg-name="Bein Sports Three" group-title="Hilay TV",Bein Sports Three
 https://ott.udptv.net/stream/iptv/beinsports3/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
@@ -381,16 +381,16 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a7405ebf-63e6-4c18-ae89-fbcfe0aa7db9/4.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports One UK" group-title="Hilay TV",TNT Sports One UK
-https://ott.udptv.net/stream/iptv/tntsports1/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://a1xs.vip/2000021
 
 #EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports Two UK" group-title="Hilay TV",TNT Sports Two UK
-https://ott.udptv.net/stream/iptv/tntsports2/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://a1xs.vip/2000022
 
 #EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports Three UK" group-title="Hilay TV",TNT Sports Three UK
-https://ott.udptv.net/stream/iptv/tntsports3/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://a1xs.vip/2000023
 
 #EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Hilay TV",TNT Sports Four
-https://ott.udptv.net/stream/iptv/tntsports4/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA Network East" group-title="Hilay TV",USA Network East
 https://a1xs.vip/1100020
@@ -414,7 +414,7 @@ http://212.102.60.10/FOX_Sports_1/index.m3u8
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSN" tvg-name="CBS Sports Network" group-title="Hilay TV",CBS Sports Network
-http://primestreams.tv:826/live/Ncamp007824/Nick007/99599.ts
+http://primestreams.tv:826/live/Ncamp007824/Nick007/99477.ts
 
 #EXTINF:-1 tvg-id="realmadrid" tvg-name="Real Madrid TV" group-title="Hilay TV",Real Madrid TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ac6366c8-78e1-4c09-bb3f-e27c4a2a51cc/5.m3u8
@@ -447,13 +447,13 @@ http://212.102.60.231:80/DISNEY_XD/index.m3u8
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon US" group-title="Hilay TV",Nickelodeon US
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://a1xs.vip/1000051
 
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons US" group-title="Hilay TV",Nicktoons US
-https://ott-sg.djdoolky76.net/stream/udptv/nicktoons/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://a1xs.vip/100054
 
 #EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr US" group-title="Hilay TV",Nick Jr US
-https://ott.djdoolky76.net/stream/astro/nickjunior/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+https://a1xs.vip/1000052
 
 #EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Hilay TV",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -462,7 +462,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Hilay TV",HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" group-title="Hilay TV",HBO Comedy
 https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
@@ -597,7 +597,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_c
 https://a1xs.vip/myzen4k
 
 #EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" group-title="Hilay TV",Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+https://a1xs.vip/1000033
 
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" group-title="Hilay TV",Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
@@ -714,7 +714,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/84f6888c-fa4b-4f56-a036-7713c40fe3f8/4.m3u8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
-https://maldivesn.net/hilaytv/foxsports1
+https://maldivesn.net/hilaytv/tnt1
 
 #EXTINF:-1 tvg-id="cookingch" tvg-name="Cooking Channel" group-title="Hilay TV",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
