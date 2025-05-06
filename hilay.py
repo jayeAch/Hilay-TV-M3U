@@ -2,9 +2,9 @@ import requests
 
 # Replace this with your actual M3U URL
 m3u_url = 'https://hilaytvm3u.dhck.workers.dev/hilaytv.m3u'
-
+headers = {'User-Agent': 'vlc'}
 try:
-    response = requests.get(m3u_url)
+    response = requests.get(m3u_url, headers=headers)
     response.raise_for_status()
     m3u_content = response.text
 
