@@ -16,7 +16,7 @@ def get_final_url(url):
 
 def generate_m3u_playlist():
     # Fetch the manifest.json
-    manifest_url = 'https://hilaytv.vercel.app/manifest.json'
+    manifest_url = 'https://hilaytvm3u.dhck.workers.dev/manifest.json'
     try:
         response = requests.get(manifest_url, timeout=10)
         response.raise_for_status()
@@ -33,7 +33,7 @@ def generate_m3u_playlist():
     # Process each channel prefix
     processed_count = 0
     for prefix in manifest.get('idPrefixes', []):
-        channel_url = f"https://hilaytv.vercel.app/stream/tv/{prefix}.mv.json"
+        channel_url = f"https://hilaytvm3u.dhck.workers.dev/stream/tv/{prefix}.mv.json"
         
         try:
             response = requests.get(channel_url, timeout=10)
