@@ -45,7 +45,7 @@ http://s5.alltvfree.com:8081/live/munnaaru1/playlist.m3u8
 https://api.m3use.projectmoose.xyz/m3u/mv-tv/MVTV/67fd6eb7eadb6c734863693e.m3u8?uid=mv-tv&pkey=uQc62M
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
-https://api.m3use.projectmoose.xyz/m3u/mv-tv/MVTV/6866987b0c22cc6fefaa0cc5.m3u8?uid=mv-tv&pkey=uQc62M
+https://www.youtube.com/c/Channel13mv/live
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
 http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
@@ -54,7 +54,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=R8d8JShPXk-k39EEY-oJwg
+/PeaceTvEnglish/index.m3u8?sid=yOgyRJUSWkC7A2g7uYcUBg
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -81,7 +81,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://maldivesn.net/hilaytv/kpopplus
 
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" group-title="Hilay TV",KBS World
-https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1754706405&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDcwNjQwNX19fV19&Signature=EX7mD-UCfB7r7PtcoNEtmOkhVjZsb6Yc-lvnKMXJHJCPtt6g4zVazzh8TLKVY5M4a9GaBCS3CTv4LKyjxA5OSDDiSPb4YHxenxBUj4DKtm4x51EhqX3~8aRPqkkQRe96GaAsdPr7CGYXQ4Z3JhyoswyiptZv6911AaFeNS9VY6F3PsFTNtkeGY04eMn55M~Gq9uW5Duu3kVPOU8WkzW3-dlWok~0GBkd-rTO3eLtxHBSfHUb3rcdcv8Ftco8C5iUWRzQLTcBslGv-k~IuCqdwXgynFOXNyJPxRMuZDHm8U8SyRqz~PTC8lKDUEbOQD3vSrakkrxTNcmzvnSK9oyieg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1754792803&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDc5MjgwM319fV19&Signature=jbJI5ehm~pxgFMAoaR-VJSpxpFFIZexHd09e0lV2kRnAT1yQ74450MPeRv~ax44x5hYkZoJZufLCpfQgOygsp4zz3SbEZi9ehSbBISmtDK65uKvU1Tc~Bx2eYdWQoZ0VPoSeUGC-p3rqhZUApK0ZOYZ94o6B7lBBx7BCr9lW9MoqFS2VRfw7byxIOLc0jOsWAiaUrQuDmDiWQJuclXnFFKpsk3mOgtxR5RTZXDoJBJzkKj16EBp3rdB143VmyeEshmEwYaSUATLYVnxNeSXyKLGu9Uc7q1Bgh~4Ofau4z~yXgDTLTNhw~Pscc-cQkhr3PFbKySpP5Vc82mKBYmihuw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" group-title="Hilay TV",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -111,7 +111,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHK World Japan" group-title="Hilay TV",NHK World Japan
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+https://maldivesn.net/hilaytv/nhkworld
 
 #EXTINF:-1 tvg-id="RTFrance" tvg-name="Press TV" group-title="Hilay TV",Press TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
@@ -612,7 +612,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/6c72358f-a68d-4108-a5ce-c2745ef6d526/0.m3u8
 
 #EXTINF:-1 tvg-id="goltv" tvg-name="Women Sports Network" group-title="Hilay TV",Women Sports Network
-https://maldivesn.net/hilaytv/womesportsnet
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
 #EXTINF:-1 tvg-id="cloudflaretv" tvg-name="Cloudflare TV" group-title="Hilay TV",Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
