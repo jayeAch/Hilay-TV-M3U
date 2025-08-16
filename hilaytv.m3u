@@ -29,6 +29,9 @@ https://radio.psm.mv/fmair
 #EXTINF:-1 tvg-id="dheenugeadu" tvg-name="Dheenuge Adu Radio" group-title="Hilay TV",Dheenuge Adu Radio
 https://radio.psm.mv/dheenugeaduair
 
+#EXTINF:-1 tvg-id="vtv" tvg-name="VTV" group-title="Hilay TV",VTV
+https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+
 #EXTINF:-1 tvg-id="SkyNewsSports" tvg-name="Sky Sports News" group-title="Hilay TV",Sky Sports News
 https://a1xs.vip/2000004
 
@@ -45,7 +48,7 @@ http://s5.alltvfree.com:8081/live/munnaaru1/playlist.m3u8
 https://www.youtube.com/@dhaaristv/live
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
-https://www.youtube.com/c/Channel13mv/live
+https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
 http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
@@ -54,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=ZfgpjkbKlEud2llgUlqIyg
+/PeaceTvEnglish/index.m3u8?sid=nXRnpb6xzUqKAxq_gRCBiA
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -66,7 +69,7 @@ https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" group-title="Hilay TV",CNN International
-https://jmp2.uk/sam-ATBD800001VA.m3u8
+https://jmp2.uk/stvp-CHBD800001D0
 
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC World" group-title="Hilay TV",BBC World
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -81,7 +84,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://maldivesn.net/hilaytv/kpopplus
 
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" group-title="Hilay TV",KBS World
-https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1755310250&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NTMxMDI1MH19fV19&Signature=j0Tt3JxK1u-kIBHAuWKHlZyEgfYhge6EAqYxoa51krx3XTr6HDinSlBjp9008Nnmz7eKpdWQnRHMR9nouetl3iQO76p~v2-3PL77c5PSMcPeqXwnCYhDOl9E-1kkDgPMWiYMZ-PsGkwagk5i8cZT3l7ozGOP2pEc~CBgewNC~BcMZ93KVSpmLeQSYS~ut5IuBjEs0IdTDcm-T9Nqke2vUCsNe5RaE2RVYi-ssLvOX-KfUmZpUe2B71Rpe29ZnqTdEj8lSQl1TsR0jxTbmfv3znRSi~Tmc~jDLYt~MprR1UU5VCibvhEwtcnMn0Ib1VBxZi63Iz9zNo2lK~yN1YZ-DQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1755482668&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NTQ4MjY2OH19fV19&Signature=Ow9MZtEDCmjOehYyWfgH11e6JFJBVU5Bvqss6alUJY3J-P-fLb0mZV2XmlwbWOXQKhaK1ubKqT3G0pmWTH2qiEEwx0J-CvtJ862DeLIaqgAw4C4ABQPAyBzTzUM9DL4dhFqxIE9KxXAYc-3NNzHgb3S8n9ILzENkgAASKhrBC3yDqPxWOzoI40YOBLP01YrUHlBrpogwMxiRZvPbUdR0yueGg~gmgJHp47z9ebMev9uPiIXIrlqMFz0jkdl55bx-IG9~8KzgoST~HD5dO974UFXWCy6jH97SKygM-GPkCcx5H9ZODO3eg5yCYe9gjZHe5Z-t-mD9QmgchaXAtCjJ3g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" group-title="Hilay TV",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -159,7 +162,7 @@ http://190.102.246.93:9005/play/a01p
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=3113
 
 #EXTINF:-1 tvg-id="musicindia" tvg-name="Music India" group-title="Hilay TV",Music India
-https://jmp2.uk/sam-INBD4700015M0.m3u8
+https://jmp2.uk/stvp-INBD4700015M0
 
 #EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" group-title="Hilay TV",Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
@@ -294,10 +297,10 @@ http://103.110.111.36:8081/live/ssport1_720p/playlist.m3u8
 http://103.110.111.36:8081/live/ssport2_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="premiersp1" tvg-name="Premier Sports One" group-title="Hilay TV",Premier Sports One
-http://mains.services/live/pmf0423/1aku0jt%40/a2de5c34-7664-4983-996d-aef9744e8ea5.m3u
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/98771.ts
 
 #EXTINF:-1 tvg-id="premiersp2" tvg-name="Premier Sports Two" group-title="Hilay TV",Premier Sports Two
-https://a1xs.vip/8000022
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/98770.ts
 
 #EXTINF:-1 tvg-id="Golazo" tvg-name="CBS Golazo Network" group-title="Hilay TV",CBS Golazo Network
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44&profilesFromStream=true
@@ -366,10 +369,10 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_ch
 http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports Two UK" group-title="Hilay TV",TNT Sports Two UK
-https://a1xs.vip/2000022
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports Three UK" group-title="Hilay TV",TNT Sports Three UK
-https://a1xs.vip/2000023
+http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Hilay TV",TNT Sports Four
 https://a1xs.vip/2000024
@@ -600,7 +603,7 @@ http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
 https://a1xs.vip/2000031
 
 #EXTINF:-1 tvg-id="malikutv" tvg-name="Maliku TV" group-title="Hilay TV",Maliku TV
-https://hugh.cdn.rumble.cloud/live/u7gf26qm/live-hls/yyw6-dfqy/chunklist_i1_DVR.m3u8
+https://1a-1791.com/live/qt9k24wa/live-hls/l1mo-ewud/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" group-title="Hilay TV",DD Sports
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3a330290-aff5-4ddd-88ea-994a73c5f2d8/4.m3u8
@@ -644,8 +647,8 @@ https://www.youtube.com/@LaamuMV/live
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
 https://www.youtube.com/@volleyballworld/live
 
-#EXTINF:-1 tvg-id="babyrhmes" tvg-name="Baby Rhymes" group-title="Hilay TV",Baby Rhymes
-http://45.148.145.57/rhymes247_1/index.m3u8
+#EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
+https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1 tvg-id="cookingch" tvg-name="Cooking Channel" group-title="Hilay TV",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -663,7 +666,7 @@ http://175.107.244.52:4457/play/a062/index.m3u8
 http://175.107.244.52:4457/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euro News" group-title="Hilay TV",Euro News
-https://maldivesn.net/hilaytv/euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/41a9ec08-3645-4df4-a6ab-ed33efa47385/5.m3u8
 
 #EXTINF:-1 tvg-id="howto" tvg-name="How it's Made" group-title="Hilay TV",How it's Made
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/1bf48d66-1346-41db-b80d-ecc0baf9af5c/0.m3u8
