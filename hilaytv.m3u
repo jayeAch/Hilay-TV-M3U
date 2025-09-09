@@ -21,7 +21,7 @@ http://fl3.moveonjoy.com/HBO/index.m3u8
 http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" group-title="Hilay TV",HBO Zone
-https://maldivesn.net/hilaytv/hbozone
+http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Hilay TV",HBO 2
 http://fl3.moveonjoy.com/HBO_2/index.m3u8
