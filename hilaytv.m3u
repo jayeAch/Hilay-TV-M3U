@@ -3,25 +3,25 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA Network East" group-title="Hilay TV",USA Network East
-http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+http://fl4.moveonjoy.com/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network US" group-title="Hilay TV",Cartoon Network US
-https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+https://fl4.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="Hilay TV",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBO Family" group-title="Hilay TV",HBO Family
-http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+http://fl4.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Hilay TV",HBO
 http://fl4.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" group-title="Hilay TV",HBO Comedy
-http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+http://fl4.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" group-title="Hilay TV",HBO Zone
-http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+http://fl4.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Hilay TV",HBO 2
 http://fl4.moveonjoy.com/HBO_2/index.m3u8
