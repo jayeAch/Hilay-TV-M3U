@@ -9,7 +9,7 @@ http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
 https://fl7.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="Hilay TV",Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+http://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBO Family" group-title="Hilay TV",HBO Family
 http://fl7.moveonjoy.com/HBO_FAMILY/index.m3u8
